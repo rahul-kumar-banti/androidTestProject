@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity intent</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="activity_2">activity 2</string>
+    <string name="activity_3">activity 3</string>
+    <string name="result_will_be_from_activity_3">result will be from activity 3</string>
+    <string name="welcome_to_activity_2">Welcome to activity 2</string>
+    <string name="submit">submit</string>
+</resources>
